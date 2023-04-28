@@ -23,7 +23,7 @@ Our primary dataset will be the NFL Big Data set, which contains a wealth of inf
 Contextual Visualization #1: 
 To provide a broader context for our analysis, we will include a chart showing the distribution of player positions across the league. This visualization will allow users to see how different positions are distributed and may help explain some of the trends we observe in our primary dataset. 
 
-![figure 02](/assets/Screen Shot 2023-04-28 at 3.41.10 PM.png)
+![figure 02](/assets/temp.png)
 Figure 2: Temperature vs Humidity<br />
 Creator: John Gadomski <br />
 Description: <br />
