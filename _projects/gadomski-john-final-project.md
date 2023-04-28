@@ -1,7 +1,7 @@
 ---
 name: Final Project Part 3.1
 tools: [Python, HTML, vega-lite]
-image: assets/Screen Shot 2023-04-28 at 3.41.10 PM.png
+image: IS445/assets/chart1.png
 description: by John Gadomski
 custom_js:
   - vega.min
