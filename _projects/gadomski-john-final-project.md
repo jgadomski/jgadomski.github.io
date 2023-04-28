@@ -8,3 +8,6 @@ Our primary dataset will be the NFL Big Data set, which contains a wealth of inf
 
 Contextual Visualization #1: 
 To provide a broader context for our analysis, we will include a chart showing the distribution of player positions across the league. This visualization will allow users to see how different positions are distributed and may help explain some of the trends we observe in our primary dataset. 
+
+{% include elements/button.html link="" text="The Data" %}
+{% include elements/button.html link="" text="The Analysis" %}
