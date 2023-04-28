@@ -26,7 +26,7 @@ To provide a broader context for our analysis, we will include a chart showing t
 ![TEST](/assets/chart1.png)
 Image 1: "Test" <br />
 Creator: John Gadomski <br />
-Credit: NPS/Eret <br />
+Credit: /Eret <br />
 Source:  <br />
 License: Public Domain <br />
 
