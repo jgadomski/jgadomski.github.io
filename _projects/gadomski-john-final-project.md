@@ -15,7 +15,7 @@ custom_js:
 <plist version="1.0">
 <dict>
 	<key>URL</key>
-	<string>http://localhost:8888/view/nfl_scatterplot.html</string>
+	<string>file:///Users/john/Desktop/GithubReal/jgadomski.github.io/IS445/nfl_scatterplot.html</string>
 </dict>
 </plist>
 
