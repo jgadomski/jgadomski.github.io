@@ -18,6 +18,10 @@ Final Project Part 3.1
 Central Interactive Visualization: 
 Our primary dataset will be the NFL Big Data set, which contains a wealth of information on player and team performance. Using this dataset, we will create an interactive visualization that allows users to explore player performance across different variables, such as speed, acceleration, and distance traveled. Users can select specific games or players to analyze, and the visualization will update in real-time to show how different variables impact performance.
 
+Analyzing player height and weight in the NFL can provide us with valuable insights into the sport. By using position as a tooltip variable, we can observe how different positions require different physical attributes. For example, players like cornerbacks and wide receivers tend to be smaller in stature and have lower body weights. On the other hand, positions like offensive and defensive linemen require larger body sizes and higher body weights.
+
+This information can be useful for coaches and team managers when selecting and training players for specific positions. It can also help in identifying potential talent based on physical attributes. Additionally, analyzing player height and weight can provide insights into trends and changes in the sport over time, such as changes in playing styles and positions. Overall, analyzing player height and weight can provide valuable information for improving player performance and enhancing team strategy.
+
 ![figure 01](/_projects/newplot.png)
 Figure 1: br />
 
