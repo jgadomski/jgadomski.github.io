@@ -28,7 +28,7 @@ Figure 1: br />
 ![figure 04](/IS445/assets/chooseplayer.png)
 Figure 3: <br />
 Creator: John Gadomski  <br />
-Description: <br />
+Description: <br Interactive Plot that allows you to choose specific player and see their height, weight, and position/>
 
 
 ![figure 01](/IS445/assets/chart1.png)
