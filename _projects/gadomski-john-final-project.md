@@ -46,3 +46,5 @@ To provide a broader context for our analysis, we will include a chart showing t
 
 {% include elements/button.html link="https://github.com/jgadomski/jgadomski.github.io/blob/main/_data/NFLPlayer.csv" text="The Data" %}
 {% include elements/button.html link="https://github.com/jgadomski/jgadomski.github.io/blob/main/python_notebooks/%5BIS445%5DFinalProjectPart3Code.ipynb" text="The Analysis" %}
+
+Source of data: https://www.kaggle.com/competitions/nfl-big-data-bowl-2020 
