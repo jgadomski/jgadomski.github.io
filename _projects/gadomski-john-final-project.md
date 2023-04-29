@@ -25,6 +25,12 @@ This information can be useful for coaches and team managers when selecting and 
 ![figure 01](/_projects/newplot.png)
 Figure 1: br />
 
+![figure 04](/IS445/assets/chooseplayer.png)
+Figure 3: <br />
+Creator: John Gadomski  <br />
+Description: <br />
+
+
 ![figure 01](/IS445/assets/chart1.png)
 Figure 1: br />
 
@@ -42,6 +48,11 @@ Description: <br />
 Figure 3: <br />
 Creator: John Gadomski  <br />
 Description: <br />
+
+![figure 04](/IS445/assets/temp.png)
+Figure 3: <br />
+Creator: John Gadomski  <br />
+Description: <br Temperature vs Humidity/>
 
 
 Contextual Visualization #1: 
