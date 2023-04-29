@@ -56,7 +56,7 @@ Description: Analyzing the relationship between height and weight in NFL players
 
 
 {% include elements/button.html link="https://github.com/jgadomski/jgadomski.github.io/blob/main/_data/NFLPlayer.csv" text="The Player Data" %}
-{% include elements/button.html link="https://github.com/jgadomski/jgadomski.github.io/blob/main/_data/Weather.csv" text="The Player Data" %}
+{% include elements/button.html link="https://github.com/jgadomski/jgadomski.github.io/blob/main/_data/Weather.csv" text="The Weather Data" %}
 {% include elements/button.html link="https://github.com/jgadomski/jgadomski.github.io/blob/main/python_notebooks/%5BIS445%5DFinalProjectPart3Code.ipynb" text="The Analysis" %}
 
 Source of data: https://www.kaggle.com/competitions/nfl-big-data-bowl-2020 
