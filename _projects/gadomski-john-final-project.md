@@ -13,6 +13,28 @@ custom_js:
 ![figure 01](/_projects/newplot.png)
 Figure 1: br />
 
+![figure 01](/IS445/assets/chart1.png)
+Figure 1: br />
+
+![figure 02](/IS445/assets/chart2.png)
+Figure 3: <br />
+Creator: John Gadomski  <br />
+Description: <br />
+
+![figure 03](/IS445/assets/chart3.png)
+Figure 3: <br />
+Creator: John Gadomski  <br />
+Description: <br />
+
+![figure 04](/IS445/assets/chart4.png)
+Figure 3: <br />
+Creator: John Gadomski  <br />
+Description: <br />
+
+![figure 05](/IS445/assets/chart5.png)
+Figure 3: <br />
+Creator: John Gadomski  <br />
+Description: <br />
 
 # Unleashing the Power of NFL Big Data: An Interactive Exploration:
 #### The National Football League (NFL) is one of the most popular sports leagues in the world, with millions of fans tuning in each week to watch their favorite teams and players. But what goes on behind the scenes? How do coaches and players use data to gain an edge on the competition? In this article, we will take a deep dive into the world of NFL data and explore some of the most fascinating insights and trends from the past few seasons.
@@ -26,8 +48,6 @@ Our primary dataset will be the NFL Big Data set, which contains a wealth of inf
 Contextual Visualization #1: 
 To provide a broader context for our analysis, we will include a chart showing the distribution of player positions across the league. This visualization will allow users to see how different positions are distributed and may help explain some of the trends we observe in our primary dataset. 
 
-![figure 01](/IS445/assets/chart1.png)
-Figure 1: br />
 
 {% include elements/button.html link="" text="The Data" %}
 {% include elements/button.html link="" text="The Analysis" %}
