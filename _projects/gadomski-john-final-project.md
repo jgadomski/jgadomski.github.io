@@ -25,7 +25,7 @@ Analyzing player height and weight in the NFL can provide us with valuable insig
 This information can be useful for coaches and team managers when selecting and training players for specific positions. It can also help in identifying potential talent based on physical attributes. Additionally, analyzing player height and weight can provide insights into trends and changes in the sport over time, such as changes in playing styles and positions. Overall, analyzing player height and weight can provide valuable information for improving player performance and enhancing team strategy.
 
 
-![figure 01](/IS445/assets/newplot.png)
+![figure 01](/assets/assets/newplot.png)
 Figure 1: br />
 
 As a user, I can hover over the data points on the scatter plot and see the player name in the tooltip that pops up. By using the tooltip feature to check for player name, I can quickly identify specific players on the plot and see where they fall in terms of their height, weight, and position. This could be particularly useful for coaches and analysts who are looking to evaluate players' physical attributes in order to determine their role on the team or their potential for success at the professional level.
