@@ -44,7 +44,8 @@ Figure 1: br />
 ![figure 05](/IS445/assets/chart2.png)
 Figure 3: <br />
 Creator: John Gadomski  <br />
-Description: <br />
+Description: <br The temperature vs humidity visualization can provide valuable insights into how weather conditions can impact NFL games. High humidity levels combined with high temperatures can lead to an uncomfortable playing environment for athletes, potentially affecting their performance. Similarly, cold and dry conditions can also impact players, affecting their grip on the ball and potentially leading to more fumbles. Understanding the relationship between temperature and humidity can help coaches and analysts better prepare for games, such as adjusting their strategies based on weather conditions or adjusting player training and hydration programs. Additionally, this visualization can be useful for predicting game outcomes based on weather conditions, allowing analysts to make more informed decisions when placing bets or making predictions.
+ />
 
 ![figure 06](/IS445/assets/chart3.png)
 Figure 3: <br />
