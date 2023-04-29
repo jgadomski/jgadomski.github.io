@@ -49,11 +49,6 @@ Figure 3: <br />
 Creator: John Gadomski  <br />
 Description: <br />
 
-![figure 04](/IS445/assets/temp.png)
-Figure 3: <br />
-Creator: John Gadomski  <br />
-Description: <br Temperature vs Humidity/>
-
 
 Contextual Visualization #1: 
 To provide a broader context for our analysis, we will include a chart showing the distribution of player positions across the league. This visualization will allow users to see how different positions are distributed and may help explain some of the trends we observe in our primary dataset. 
