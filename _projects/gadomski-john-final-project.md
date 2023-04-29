@@ -13,10 +13,12 @@ custom_js:
 # Unleashing the Power of NFL Big Data: An Interactive Exploration
 #### The National Football League (NFL) is one of the most popular sports leagues in the world, with millions of fans tuning in each week to watch their favorite teams and players. But what goes on behind the scenes? How do coaches and players use data to gain an edge on the competition? In this article, we will take a deep dive into the world of NFL data and explore some of the most fascinating insights and trends from the past few seasons.
 By John Gadomski <br />
+
 Final Project Part 3.1
 
-Central Interactive Visualization: 
 Our primary dataset will be the NFL Big Data set, which contains a wealth of information on player and team performance. Using this dataset, we will create an interactive visualization that allows users to explore player performance across different variables, such as speed, acceleration, and distance traveled. Users can select specific games or players to analyze, and the visualization will update in real-time to show how different variables impact performance.
+
+Main Interactive Visualization: 
 
 Analyzing player height and weight in the NFL can provide us with valuable insights into the sport. By using position as a tooltip variable, we can observe how different positions require different physical attributes. For example, players like cornerbacks and wide receivers tend to be smaller in stature and have lower body weights. On the other hand, positions like offensive and defensive linemen require larger body sizes and higher body weights.
 
@@ -24,6 +26,10 @@ This information can be useful for coaches and team managers when selecting and 
 
 ![figure 01](/_projects/newplot.png)
 Figure 1: br />
+
+As a user, I can hover over the data points on the scatter plot and see the player name in the tooltip that pops up. By using the tooltip feature to check for player name, I can quickly identify specific players on the plot and see where they fall in terms of their height, weight, and position. This could be particularly useful for coaches and analysts who are looking to evaluate players' physical attributes in order to determine their role on the team or their potential for success at the professional level.
+
+Analyzing the tendencies of players' height and weight by position can provide valuable insights for NFL analysts and coaches. For example, knowing that cornerbacks and wide receivers tend to be smaller and lighter than other positions, such as linemen or linebackers, can help coaches make more informed decisions when drafting or signing players. By analyzing the height and weight of successful players at a particular position, coaches and analysts can also identify physical attributes that may be indicative of success in that position. This type of analysis could help teams identify hidden gems in the draft or free agency, or help them make more informed decisions when building their roster. Ultimately, understanding the tendencies of players' height and weight by position can help teams gain a competitive advantage in a league where even small differences can make a big impact.
 
 ![figure 04](/IS445/assets/chooseplayer.png)
 Figure 3: <br />
