@@ -32,7 +32,7 @@ As a user, I can hover over the data points on the scatter plot and see the play
 
 Analyzing the tendencies of players' height and weight by position can provide valuable insights for NFL analysts and coaches. For example, knowing that cornerbacks and wide receivers tend to be smaller and lighter than other positions, such as linemen or linebackers, can help coaches make more informed decisions when drafting or signing players. By analyzing the height and weight of successful players at a particular position, coaches and analysts can also identify physical attributes that may be indicative of success in that position. This type of analysis could help teams identify hidden gems in the draft or free agency, or help them make more informed decisions when building their roster. Ultimately, understanding the tendencies of players' height and weight by position can help teams gain a competitive advantage in a league where even small differences can make a big impact.
 
-![figure 02](/IS445/assets/chooseplayer.png)
+![figure 02](/assets/assets/chooseplayer.png)
 Figure 2: <br />
 Creator: John Gadomski  <br />
 Description: Interactive Plot that allows you to choose specific player and see their height, weight, and position
