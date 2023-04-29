@@ -10,17 +10,14 @@ custom_js:
   - justcharts
 ---
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>My HTML File</title>
-  </head>
-  <body>
-    <h1>My HTML File</h1>
-    <iframe src="https://jgadomski.github.io/repository/nfl_scatterplot.html" width="100%" height="600"></iframe>
-  </body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>http://localhost:8888/view/nfl_scatterplot.html</string>
+</dict>
+</plist>
 
 # Unleashing the Power of NFL Big Data: An Interactive Exploration:
 #### The National Football League (NFL) is one of the most popular sports leagues in the world, with millions of fans tuning in each week to watch their favorite teams and players. But what goes on behind the scenes? How do coaches and players use data to gain an edge on the competition? In this article, we will take a deep dive into the world of NFL data and explore some of the most fascinating insights and trends from the past few seasons.
