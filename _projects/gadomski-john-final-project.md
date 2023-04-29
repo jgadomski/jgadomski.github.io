@@ -6,8 +6,8 @@ description: by John Gadomski
 custom_js:
   - vega.min
   - vega-lite.min
-  - vega-embed.min
-  - justcharts
+  - plotly
+  - matplotlib.pyplot
 ---
 
 # Unleashing the Power of NFL Big Data: An Interactive Exploration:
