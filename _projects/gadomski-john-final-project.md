@@ -11,12 +11,13 @@ custom_js:
 ---
 
 # Unleashing the Power of NFL Big Data: An Interactive Exploration
-#### The National Football League (NFL) is one of the most popular sports leagues in the world, with millions of fans tuning in each week to watch their favorite teams and players. But what goes on behind the scenes? How do coaches and players use data to gain an edge on the competition? In this article, we will take a deep dive into the world of NFL data and explore some of the most fascinating insights and trends from the past few seasons.
+#### The National Football League (NFL) is one of the most popular sports leagues in the world, with millions of fans tuning in each week to watch their favorite teams and players. But what goes on behind the scenes? How do coaches and players use data to gain an edge on the competition? In this article, we will take a deep dive into the world of NFL data and explore some of the most fascinating trends from the past few seasons.
+
 By John Gadomski 
 
 Final Project Part 3.1
 
-Our primary dataset will be the NFL Big Data set, which contains a wealth of information on player and team performance. Using this dataset, we will create an interactive visualization that allows users to explore player performance across different variables, such as speed, acceleration, and distance traveled. Users can select specific games or players to analyze, and the visualization will update in real-time to show how different variables impact performance.
+Our primary dataset is the NFL Big Data set, which contains both information on player and team performance, as well as weather statistics including location and wind speed. Using this dataset, we will create an interactive visualization that allows users to explore player performance across different variables. 
 
 Main Interactive Visualization: 
 
@@ -54,6 +55,7 @@ Figure 5:
 Creator: John Gadomski  <br />
 Description: Analyzing the relationship between height and weight in NFL players can provide insights into the physical demands of each position on the field. For instance, cornerbacks and wide receivers tend to be smaller and lighter, while offensive linemen and defensive tackles are generally larger and heavier. This information can be useful for coaches and analysts who want to create game strategies and design training programs that cater to the specific physical demands of each position. By looking at the scatter plot of height and weight, and using the tooltip feature to see the position of each player, coaches and analysts can identify patterns in the physical characteristics of players in different positions, and make more informed decisions about how to train and prepare for games. Overall, analyzing the relationship between height and weight in NFL players can provide valuable insights into the physical demands of each position and can help coaches and analysts create more effective training programs and game strategies.
 
+In conclusion, the use of analytics has become an integral part of the player drafting process in the NFL. Teams can use data-driven insights to evaluate the potential of draft prospects and make informed decisions on who to select. With the vast amounts of data available, including player statistics, biometric data, and even social media analytics, teams can gain a more comprehensive understanding of a player's potential on and off the field. By leveraging the power of analytics, teams can build a more successful and competitive roster, ultimately leading to greater success on the field.
 
 {% include elements/button.html link="https://github.com/jgadomski/jgadomski.github.io/blob/main/_data/NFLPlayer.csv" text="The Player Data" %}
 {% include elements/button.html link="https://github.com/jgadomski/jgadomski.github.io/blob/main/_data/Weather.csv" text="The Weather Data" %}
