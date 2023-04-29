@@ -10,6 +10,7 @@ custom_js:
   - justcharts
 ---
 
+nfl_scatterplot.html
 
 # Unleashing the Power of NFL Big Data: An Interactive Exploration:
 #### The National Football League (NFL) is one of the most popular sports leagues in the world, with millions of fans tuning in each week to watch their favorite teams and players. But what goes on behind the scenes? How do coaches and players use data to gain an edge on the competition? In this article, we will take a deep dive into the world of NFL data and explore some of the most fascinating insights and trends from the past few seasons.
